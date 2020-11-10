@@ -6,33 +6,18 @@
 /*   By: edbaudou <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/02/25 16:30:46 by edbaudou          #+#    #+#             */
-<<<<<<< HEAD
 /*   Updated: 2019/02/27 22:16:02 by sikpenou         ###   ########.fr       */
-=======
-/*   Updated: 2019/02/26 20:44:21 by sikpenou         ###   ########.fr       */
->>>>>>> master
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../includes/bsq.h"
-<<<<<<< HEAD
-=======
-
-char	*set_first_line(char *line
-
-char	*ft_algo(char *line, char *buff)
->>>>>>> master
 
 int		ft_min(int up, int diag, int left, int pos)
 {
 	(void)pos;
 	if (up < diag && up < left)
 	{
-<<<<<<< HEAD
 		return (up);
-=======
-		
->>>>>>> master
 	}
 	else if (diag < left)
 	{
