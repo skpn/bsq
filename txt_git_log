@@ -1,0 +1,66 @@
+commit a31c1a88bcc478da1f73ac4f40cd3b9823363ac7
+Author: Simon KPENOU <sikpenou@e3r12p17.42.fr>
+Date:   Wed Feb 27 23:02:00 2019 +0100
+
+    Cest completement pete mais on garde la peche
+
+commit 4c4c8e1372e3a43fdb6c52f930633e8472b664b0
+Author: Simon KPENOU <sikpenou@e3r9p4.42.fr>
+Date:   Tue Feb 26 20:45:24 2019 +0100
+
+    stand by
+
+commit fc77ab04a232391c65ef1cc824e4dd863612099d
+Author: Simon KPENOU <sikpenou@e3r9p4.42.fr>
+Date:   Tue Feb 26 20:40:12 2019 +0100
+
+    working chars
+
+commit 522d6486869689a3a9f975b6a438bb1b08993c1e
+Author: Simon KPENOU <sikpenou@e3r9p4.42.fr>
+Date:   Tue Feb 26 19:31:57 2019 +0100
+
+    cest tout pete
+
+commit 596c03453a3e268223a69dc23435771eabbf8502
+Author: Simon KPENOU <sikpenou@e3r9p4.42.fr>
+Date:   Tue Feb 26 19:22:44 2019 +0100
+
+    la ligne 1 marche sa mere
+
+commit 29edd7215bd27c2f8e286fa8272b15f89dd01e0e
+Author: Edouard BAUDOUIN <edbaudou@e3r10p7.42.fr>
+Date:   Mon Feb 25 23:26:37 2019 +0100
+
+    opti sur les int
+
+commit 2b993879fa72148bcf0a9b5ca6a89ed07ff1e50c
+Author: Edouard BAUDOUIN <edbaudou@e3r10p7.42.fr>
+Date:   Mon Feb 25 22:30:58 2019 +0100
+
+    starting
+
+commit 88a019caabcb642ada3d3846257c32472793998e
+Merge: be377bd 2702cd7
+Author: Edouard BAUDOUIN <edbaudou@e3r10p7.42.fr>
+Date:   Mon Feb 25 21:02:42 2019 +0100
+
+    ?
+
+commit 2702cd772290abea3e366aaec347cd21517c7605
+Author: Edouard BAUDOUIN <edbaudou@e3r10p7.42.fr>
+Date:   Mon Feb 25 21:01:54 2019 +0100
+
+    on ne segfault plus
+
+commit be377bd39821947c5d8ab60a642abfcc495dfe81
+Author: Edouard BAUDOUIN <edbaudou@e3r10p7.42.fr>
+Date:   Mon Feb 25 21:00:49 2019 +0100
+
+    on ne segfault plus
+
+commit 955bbb48abbb61c212fbcf115bd415ad3232d102
+Author: Edouard BAUDOUIN <edbaudou@e3r10p7.42.fr>
+Date:   Mon Feb 25 18:55:02 2019 +0100
+
+    its a start
